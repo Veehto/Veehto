@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  Hello! I’m Victor, Bachelor of English, ESL teacher, interpreter, self-taught programmer, and trainee front-end developer from Chile.
+  Hello! I’m Victor, Bachelor of English, ESL teacher, interpreter, self-taught programmer, and trainee front-end developer from Chile 🇨🇱.
 </p>
 
 ###
@@ -12,7 +12,8 @@
 
 ###
 
-<p align="left">✨ Started studying Code in 2020 with Harvard's CS50 and with Udemy Angela Yu's course<br>
+<p align="left">
+  ✨ Started studying Code in 2020 with Harvard's CS50 and with Udemy Angela Yu's course<br>
   📚 I'm currently finishing Adalid Chile Front-End Developer bootcamp program, and doing the Front-End path on Codecademy<br>
   🎯 Goals: Start a career in software developing and keep expanding my toolset of skills!<br>
   🎲 Fun fact: When I’m not in front of my computer, you can find me brewing coffee, reading classic, sci-fi, or horror novels, doing some training, or gaming for a bit.
@@ -25,14 +26,13 @@
 ###
 
 <p align="left">
-  [In progress] Adalid Chile, Especialización en Desarrollo de Aplicaciones Front-End<br>
-  [In progress] Codecademy, Front-End Development, Professional Certificate<br>
-  [In progress] Codecademy, Learn Git & GitHub<br>
+  [🕒] Adalid Chile, Especialización en Desarrollo de Aplicaciones Front-End<br>
+  [🕒] Codecademy, Front-End Development, Professional Certificate<br>
+  [🕒] Codecademy, Learn Git & GitHub<br>
 
-  [Completed] Codecademy, Learn The Command Line<br>
-  [Completed] Codecademy, Learn Bash Scripting<br>
-  [Completed] Codecademy, Introduction to DevOps<br>
-  [Completed] Codecademy, Learn The Command Line<br>
+  [✅] Codecademy, Learn The Command Line<br>
+  [✅] Codecademy, Learn Bash Scripting<br>
+  [✅] Codecademy, Introduction to DevOps<br>
 
 </p>
 
