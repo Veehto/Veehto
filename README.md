@@ -27,7 +27,8 @@
 
 <p align="left">
   [🕒] Adalid Chile, Especialización en Desarrollo de Aplicaciones Front-End<br>
-  [🕒] Codecademy, Front-End Development, Professional Certificate<br>
+  [🕒] Codecademy, Front-End Engineer, Professional Certificate<br>
+  [🕒] Codecademy, Full-Stack Engineer, Professional Certificate<br>
   [🕒] Codecademy, Learn Git & GitHub<br>
 
   [✅] Codecademy, Learn The Command Line<br>
