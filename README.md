@@ -13,9 +13,9 @@
 ###
 
 <p align="left">
-  ✨ Started studying Code in 2020 with Harvard's CS50 and with Udemy Angela Yu's course<br>
-  📚 I'm currently finishing Adalid Chile Front-End Developer bootcamp program, and doing the Front-End path on Codecademy<br>
-  🎯 Goals: Start a career in software developing and keep expanding my toolset of skills!<br>
+  ✨ Started studying code in 2020 with Harvard's CS50 and with Udemy Angela Yu's course<br>
+  📚 Recently I finished Adalid Chile Front-End Developer bootcamp program, and doing the Front-End path on Codecademy<br>
+  🎯 Goals: Start a career in software development and keep expanding my toolset of skills!<br>
   🎲 Fun fact: When I’m not in front of my computer, you can find me brewing coffee, reading classic, sci-fi, or horror novels, doing some training, or gaming for a bit.
 </p>
 
@@ -26,11 +26,11 @@
 ###
 
 <p align="left">
-  [🕒] Adalid Chile, Especialización en Desarrollo de Aplicaciones Front-End<br>
   [🕒] Codecademy, Front-End Engineer, Professional Certificate<br>
   [🕒] Codecademy, Full-Stack Engineer, Professional Certificate<br>
   [🕒] Codecademy, Learn Git & GitHub<br>
 
+  [✅] Adalid Chile, Especialización en Desarrollo de Aplicaciones Front-End<br>
   [✅] Codecademy, Learn The Command Line<br>
   [✅] Codecademy, Learn Bash Scripting<br>
   [✅] Codecademy, Introduction to DevOps<br>
