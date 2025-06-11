@@ -78,7 +78,6 @@
 ###
 
 ## 📫 **Contact**
-<h2 align="left">Contact 📫</h2>
 
 - 📧 [victordev.cs@gmail.com](mailto:victordev.cs@gmail.com)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/cifuentesuil-victor/)
