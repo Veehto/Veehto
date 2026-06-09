@@ -26,14 +26,14 @@
 ###
 
 <p align="left">
-  [🕒] Codecademy, Front-End Engineer, Professional Certificate<br>
-  [🕒] Codecademy, Full-Stack Engineer, Professional Certificate<br>
-  [🕒] Codecademy, Learn Git & GitHub<br>
+  [🕒] Codecademy, Front-End Engineer, Professional Certificate (115 hrs, at 80%)<br>
+  [🕒] Codecademy, Full-Stack Engineer, Professional Certificate (150 hrs, at 55%)<br>
+  [🕒] Codecademy, Learn Git & GitHub (4 hrs, at 74%)<br>
 
-  [✅] Adalid Chile, Especialización en Desarrollo de Aplicaciones Front-End<br>
-  [✅] Codecademy, Learn The Command Line<br>
-  [✅] Codecademy, Learn Bash Scripting<br>
-  [✅] Codecademy, Introduction to DevOps<br>
+  [✅] Adalid Chile, Especialización en Desarrollo de Aplicaciones Front-End (132 hrs)<br>
+  [✅] Codecademy, Learn The Command Line (4 hrs)<br>
+  [✅] Codecademy, Learn Bash Scripting (1 hr)<br>
+  [✅] Codecademy, Introduction to DevOps (2 hrs)<br>
 
 </p>
 
