@@ -13,8 +13,8 @@
 ###
 
 <p align="left">
-  ✨ Started studying code in 2020 with Harvard's CS50 and with Udemy Angela Yu's course<br>
-  📚 Recently I finished Adalid Chile Front-End Developer bootcamp program, and doing the Front-End path on Codecademy<br>
+  ✨ Started studying code with Harvard's CS50 and with Udemy Angela Yu's course<br>
+  📚 I finished Adalid Chile Front-End Developer bootcamp program, and doing the Front-End path on Codecademy<br>
   🎯 Goals: Start a career in software development and keep expanding my toolset of skills!<br>
   🎲 Fun fact: When I’m not in front of my computer, you can find me brewing coffee, reading classic, sci-fi, or horror novels, doing some training, or gaming for a bit.
 </p>
@@ -26,8 +26,9 @@
 ###
 
 <p align="left">
-  [🕒] Codecademy, Front-End Engineer, Professional Certificate (115 hrs, at 83%)<br>
-  [🕒] Codecademy, Full-Stack Engineer, Professional Certificate (150 hrs, at 55%)<br>
+  [🕒] Codecademy, Front-End Engineer, Professional Certificate (115 hrs, at 95%)<br>
+  [🕒] Codecademy, Full-Stack Engineer, Professional Certificate (150 hrs, at 63%)<br>
+  [🕒] Codecademy, Learn Node.js, Professional Certificate (5 hrs, at 33%)<br>
 
   [✅] Adalid Chile, Especialización en Desarrollo de Aplicaciones Front-End (132 hrs)<br>
   [✅] Codecademy, Learn The Command Line (4 hrs)<br>
