@@ -28,7 +28,7 @@
 <p align="left">
   [🕒] Codecademy, Front-End Engineer, Professional Certificate (115 hrs, at 95%)<br>
   [🕒] Codecademy, Full-Stack Engineer, Professional Certificate (150 hrs, at 63%)<br>
-  [🕒] Codecademy, Learn Node.js, Professional Certificate (5 hrs, at 33%)<br>
+  [🕒] Codecademy, Learn Node.js (5 hrs, at 33%)<br>
 
   [✅] Adalid Chile, Especialización en Desarrollo de Aplicaciones Front-End (132 hrs)<br>
   [✅] Codecademy, Learn The Command Line (4 hrs)<br>
