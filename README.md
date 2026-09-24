@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  Hello! I’m Victor, Bachelor of English, ESL teacher, interpreter, self-taught programmer, and trainee front-end developer from Chile 🇨🇱.
+  Hello! I’m Victor, Bachelor of English, ESL teacher, interpreter, and self-taught programmer from Chile 🇨🇱.
 </p>
 
 ###
@@ -13,8 +13,9 @@
 ###
 
 <p align="left">
-  ✨ Started studying code with Harvard's CS50 and with Udemy Angela Yu's course<br>
-  📚 I finished Adalid Chile Front-End Developer bootcamp program, and doing the Front-End path on Codecademy<br>
+  ✨ Started studying code with Harvard's CS50 and other online courses.<br>
+  📚 Currently doing the Front-End Engineer Career Path on Codecademy.<br>
+  📚 Adalid Chile Front-End Developer bootcamp program under the belt.<br>
   🎯 Goals: Start a career in software development and keep expanding my toolset of skills!<br>
   🎲 Fun fact: When I’m not in front of my computer, you can find me brewing coffee, reading classic, sci-fi, or horror novels, doing some training, or gaming for a bit.
 </p>
@@ -26,8 +27,8 @@
 ###
 
 <p align="left">
-  [🕒] Codecademy, Front-End Engineer, Professional Certificate (115 hrs, at 95%)<br>
-  [🕒] Codecademy, Full-Stack Engineer, Professional Certificate (150 hrs, at 63%)<br>
+  [🕒] Codecademy, Front-End Engineer, Professional Certificate (115 hrs, at 97%)<br>
+  [🕒] Codecademy, Full-Stack Engineer, Professional Certificate (150 hrs, at 65%)<br>
   [🕒] Codecademy, Learn Node.js (5 hrs, at 33%)<br>
 
   [✅] Adalid Chile, Especialización en Desarrollo de Aplicaciones Front-End (132 hrs)<br>
